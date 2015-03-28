@@ -1,0 +1,6 @@
+name: KillRewards
+version: 1.0.0
+main: me.devup.kr.Main
+
+commands:
+     kr-reload:
